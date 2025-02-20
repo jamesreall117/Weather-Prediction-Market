@@ -7,3 +7,5 @@ J
 tests/weather-data.test.ts,2/6/265f42c5c90f70c33268e3a9f0372e99c27228df
 R
 "contracts/historical-analysis.clar,d/1/d191e02d74fdef03e2f8705b18553c437ca95023
+Q
+!tests/historical-analysis.test.ts,0/b/0b2e44d2b6fbe060fe4ee3fa592192bab8a57367
